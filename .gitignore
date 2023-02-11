@@ -1,0 +1,4 @@
+/* Below files will be ignored by git, .gitignore folder is recognised by git to be ignored*/
+index.js
+package.json
+example folder
